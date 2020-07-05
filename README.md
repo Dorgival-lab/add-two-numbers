@@ -1,0 +1,1 @@
+first the user is prompted to enter two numbers and the input is scanned using the input function () and stored in the variables number1 and number2. Then variables number1 and number2 are added using the arithmetic + operator and the result is stored in the variable sum.
